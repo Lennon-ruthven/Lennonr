@@ -34,12 +34,12 @@ const Nav: React.FC = () => {
               <div className="flex items-center">
                 <Image
                   className="w-8 h-8 rounded-full overflow-hidden"
-                  src="/portrait/logo.jpg"
+                  src="/portrait/logo.png"
                   alt="portrait"
                   width="32px"
                   height="32px"
                 />
-                <h6 className="ml-2 text-xl font-bold">nazha</h6>
+                <h6 className="ml-2 text-xl font-bold">Lennon Ruthven</h6>
               </div>
             </Link>
           </motion.div>
