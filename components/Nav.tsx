@@ -55,7 +55,6 @@ const Nav: React.FC = () => {
             ))}
             <ThemeSwitch />
             <RSSIcon />
-
             <Link href="https://twitter.com/xiaokedada" passHref>
               <span className="ml-2 bg-black text-white p-1 dark:bg-white dark:text-black cursor-pointer">
                 Follow Me
